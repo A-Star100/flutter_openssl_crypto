@@ -1,4 +1,4 @@
-# flutter_openssl_crypto
+# flutter_openssl_crypto (with 16KB page size support)
 
 This package provides libcrypto from OpenSSL for Android and iOS
 to be used with dart:ffi.
